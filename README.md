@@ -104,5 +104,7 @@ Here you will see that in every cell, before the function there are 4 linees tha
   <li>modify_X_exact_date : Get the data from the specified date in the variable: "exact_date" of the previous step</li>
 </ul>
 
+<h1>Final note:<h1>
 
+Ignore everything after the last "Times Champion picked By X player", those cells do not give any analysis and were created for learning merging dataframes.
 
