@@ -57,7 +57,7 @@ This is the secondary .csv, here every information related to the dragons killed
 </ul>
 
 
-<h1>How to run</h1>
+<h1>How to execute</h1>
 
 Before running the code, it is important to note that since this was for a learning experience some code was not erased despite nor working currentely,
 at the end of the project, adaptation were made so the code would work for a specified time and thus some previous code was not mantained anymore.
